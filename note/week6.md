@@ -1,5 +1,5 @@
 ## 數學架構: 集合、邏輯、函數、關係、證明
-### [代數](https://zh.wikipedia.org/zh-tw/%E4%BB%A3%E6%95%B0(
+### [代數](https://zh.wikipedia.org/zh-tw/%E4%BB%A3%E6%95%B0)
 [代數學](https://zh-yue.wikipedia.org/wiki/%E4%BB%A3%E6%95%B8%E5%AD%B8)
 [線性代數](https://zh.wikipedia.org/wiki/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0)
 [群論](https://zh.wikipedia.org/zh-tw/%E7%BE%A4%E8%AE%BA)
