@@ -23,4 +23,4 @@ RNN背後的核心理念是利用序列的信息。傳統的神經網絡常常�
 
 ![image](https://user-images.githubusercontent.com/47874872/123469064-26eafb00-d625-11eb-8660-42b4ed968b7f.png)
 
-### 參考資料[Jupyter](https://zh.wikipedia.org/wiki/Jupyter)、[Colab](https://en.wikipedia.org/wiki/Colab)、[LSTM、RNN](https://zh.wikipedia.org/wiki/%E9%95%B7%E7%9F%AD%E6%9C%9F%E8%A8%98%E6%86%B6)
+#### 參考資料:[Jupyter](https://zh.wikipedia.org/wiki/Jupyter)、[Colab](https://en.wikipedia.org/wiki/Colab)、[LSTM、RNN](https://zh.wikipedia.org/wiki/%E9%95%B7%E7%9F%AD%E6%9C%9F%E8%A8%98%E6%86%B6)
