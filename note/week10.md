@@ -1,9 +1,9 @@
-## 迪摩根定律
+## 笛摩根定律
 19世紀英國數學家奧古斯塔斯·德摩根首先發現了在命題邏輯中存在著下面這些關係：
 ![image](https://user-images.githubusercontent.com/47874872/123463789-8a255f00-d61e-11eb-9112-637c6751c2ce.png)
 即：
-非（ {\displaystyle p}p 且 {\displaystyle q}q ）等價於（ 非 {\displaystyle p}p ）或（ 非 {\displaystyle q}q ）
-非（ {\displaystyle p}p 或 {\displaystyle q}q ）等價於（ 非 {\displaystyle p}p ）且（ 非 {\displaystyle q}q ）
+* 非（p且q）等價於（非p）或（非q）
+* 非（p或q）等價於（非p）且（非q）
 
 ## 謂詞邏輯
 而在謂詞邏輯裏，則有「布林函數」的概念，因此其表達能力較強，例如以下是一些謂詞邏輯的範例。
@@ -18,3 +18,5 @@
 * Mortal(Socrates);所以蘇格拉底會死
 ## 二階邏輯 (Second-Order Logic)
 * 如果一階邏輯中的謂詞，放寬成可以是變項的話 (這些變項可以加上∀與∃等符號的約束)，那就變成了二階邏輯，以下是一些二階邏輯的規則範例。
+
+### 參考資料:[笛摩根定律](https://zh.wikipedia.org/wiki/%E5%BE%B7%E6%91%A9%E6%A0%B9%E5%AE%9A%E5%BE%8B)
