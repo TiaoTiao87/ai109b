@@ -25,25 +25,20 @@ NP完全或NP完備（NP-Complete，縮寫為NP-C或NPC），是計算複雜度�
 遺傳演算法 | 又稱基因演算法，模仿物競天擇，適者生存的演化機制(往高的地方)
 線性規劃   | 線性規劃，可用單形法或橢圓法在多項式時間內求解
 整數規劃   | 整數規劃， 難度為 NP-Complete，但還是有套件可用
-## 圖形搜尋
-* 圖形表示法
-    * [參考資料](https://ithelp.ithome.com.tw/articles/10246151)
-    * 相鄰矩陣 (Adjacency Matrix)
-    ![picture](https://github.com/www-abcdefg/ai109b/blob/main/pic/%E7%9B%B8%E9%84%B0%E8%88%89%E8%AD%89.png)
-    * 相鄰串列 (Adjacency List)
-    ![picture](https://github.com/www-abcdefg/ai109b/blob/main/pic/%E7%9B%B8%E9%84%B0%E4%B8%B2%E5%88%97.png)
-    * 相鄰多元串列 (Adjacency Multilist)
-    ![picture](https://github.com/www-abcdefg/ai109b/blob/main/pic/%E7%9B%B8%E9%84%B0%E5%A4%9A%E5%85%83.png)
-    * 索引表 (Index Table)
-    ![picture](https://github.com/www-abcdefg/ai109b/blob/main/pic/%E7%B4%A2%E5%BC%95.png)
-* 圖形搜尋
-    * [參考資料](http://programmermagazine.github.io/201406/htm/focus1.html)
-    * 深度優先搜尋
-    ![picture](https://github.com/www-abcdefg/ai109b/blob/main/pic/%E6%B7%B1%E5%BA%A6%E5%84%AA%E5%85%88%E6%90%9C%E5%B0%8B.png)
-    * 廣度優先搜尋
-    ![picture](https://github.com/www-abcdefg/ai109b/blob/main/pic/%E5%BB%A3%E8%B7%AF%E5%84%AA%E5%85%88%E6%90%9C%E5%B0%8B.png)
-    * 最佳優先搜尋
-        * 最佳優先搜尋的實作方法與廣度優先搜尋類似，但是並不採用佇列 (queue) ，而是採用一種根據優先程度排序的結構，每次都取出最好的那個繼續進行搜尋。但是、節點的好壞通常很難評估，單純採用某種距離去評估往往會過度簡化問題，這點往往是最佳優先搜尋的困難之所在。
 
-參考資料:[線性規劃](https://zh.wikipedia.org/wiki/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92)、[單純形法](https://zh.wikipedia.org/wiki/%E5%8D%95%E7%BA%AF%E5%BD%A2%E6%B3%95)、[Big O](https://zh.wikipedia.org/wiki/%E5%A4%A7O%E7%AC%A6%E5%8F%B7)、[NP完全](https://zh.wikipedia.org/wiki/NP%E5%AE%8C%E5%85%A8)
-[整數編程](https://zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)、[泡沫排序](https://en.wikipedia.org/wiki/Integer_programming)、[循序搜尋法](http://spaces.isu.edu.tw/upload/18833/3/web/search.htm)
+## 圖形搜尋
+圖形搜尋的方法大致可以分為「深度優先搜尋 (Depth-First Search, DFS)、廣度優先搜尋 (Breath-First Search, BFS)、最佳優先搜尋 (Best-First Search, BestFS) 等三類。
+![圖、圖形 Graph 的範例](../img/graphSearch.jpg)
+### 深度優先搜尋
+這個演算法會儘可能深的搜尋樹的分支。當節點v的所在邊都己被探尋過，搜尋將回溯到發現節點v的那條邊的起始節點。這一過程一直進行到已發現從源節點可達的所有節點為止。如果還存在未被發現的節點，則選擇其中一個作為源節點並重複以上過程，整個行程反覆進行直到所有節點都被存取為止。
+![圖、圖形 Graph 的範例](../img/dfs.jpg)
+### 廣度優先搜尋
+BFS是從根節點開始，沿著樹的寬度遍歷樹的節點。如果所有節點均被存取，則演算法中止。廣度優先搜尋的實現一般採用open-closed表。
+![圖、圖形 Graph 的範例](../img/bfs.jpg)
+### 執行 graph_search.py  
+```
+結果:
+dfs:1 => 2 => 3 => 4 => 5 => 6 =>
+bfs:1 => 2 => 5 => 3 => 4 => 6 =>
+```
+### 參考資料:[線性規劃](https://zh.wikipedia.org/wiki/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92)、[單純形法](https://zh.wikipedia.org/wiki/%E5%8D%95%E7%BA%AF%E5%BD%A2%E6%B3%95)、[Big O](https://zh.wikipedia.org/wiki/%E5%A4%A7O%E7%AC%A6%E5%8F%B7)、[NP完全](https://zh.wikipedia.org/wiki/NP%E5%AE%8C%E5%85%A8)、[整數編程](https://zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)、[泡沫排序](https://en.wikipedia.org/wiki/Integer_programming)、[循序搜尋法](http://spaces.isu.edu.tw/upload/18833/3/web/search.htm)
