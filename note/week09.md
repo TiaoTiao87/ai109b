@@ -102,4 +102,4 @@ loss(plearn, True)
 37:p=[1.96469122] f(p)=0.140 gp=[-3.93938244] glen=3.93938
 ```
 
-### 參考資料:[神經網路](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)、[單層神經元網路](https://www.itread01.com/content/1546617093.html)、[梯度下降法](https://zh.wikipedia.org/wiki/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95)
+#### 參考資料:[神經網路](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)、[單層神經元網路](https://www.itread01.com/content/1546617093.html)、[梯度下降法](https://zh.wikipedia.org/wiki/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95)
