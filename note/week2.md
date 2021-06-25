@@ -1,3 +1,21 @@
+# 爬山演算法
+* hillClimbingNumber.py
+  * 執行結果
+
+```
+PS C:\Users\teemo\OneDrive\桌面>  c:; cd 'c:\Users\teemo\OneDrive\桌面'; & 'C:\Users\teemo\AppData\Local\Programs\Python\Python38-32\python.exe' 'c:\Users\teemo\.vscode\extensions\ms-python.python-2021.6.944021595\pythonFiles\lib\python\debugpy\launcher' '60398' '--' 'c:\Users\teemo\OneDrive\桌面\ai\02-optimize\01-hillclimbing\04-framework\hillClimbingNumber.py'
+start:  energy(0.000)=4.000
+0 : energy(-0.010)=4.000
+3 : energy(-0.020)=4.000
+.
+.
+.
+394 : energy(-1.980)=0.080
+395 : energy(-1.990)=0.040
+396 : energy(-2.000)=0.000
+solution:  energy(-2.000)=0.000
+```
+
 # 模擬退火法 (Simulated-Annealing)
 
 ## 演算法
@@ -9,20 +27,5 @@ Algorithm SimulatedAnnealing(s)
     # (機率：溫度高時可以往上走，溫度低的時候差不多只能往下走)
     將溫度降低一些
   end
-end
-```
-# 實作：爬山演算法
-
-## 簡介
-
-以下是「爬山演算法」 (Hill-Climbing Algorithm) 的一個簡易版本，其方法超簡單，就是一直看旁邊有沒有更好的解，如果有就移過去。然後反覆的作這樣的動作，直到旁邊的解都比現在的更差時，程式就停止，然後將那個位於山頂的解傳回，就完成了。
-
-```
-Algorithm HillClimbing(f, x)
-  x = 隨意設定一個解。
-  while (x 有鄰居 x' 比 x 更高)
-    x = x';
-  end
-  return x;
 end
 ```
