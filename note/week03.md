@@ -24,4 +24,4 @@ ROT13是一種簡易的替換式密碼。ROT13是一種在英文網路論壇用�
 ROT13是它自己本身的逆反；也就是說，要還原ROT13，套用加密同樣的演算法即可得，故同樣的操作可用再加密與解密。該演算法並沒有提供真正的密碼學上的保全，故它不應該被套用在需要保全的用途上。它常常被當作弱加密範例的典型。ROT13激勵了廣泛的線上書信撰寫與字母遊戲，且它常於新聞群組對話中被提及。
 ![image](https://user-images.githubusercontent.com/47874872/123458070-2fd4d000-d617-11eb-8607-c320aaee7547.png)
 
-參考資料:[凱薩加密](https://zh.wikipedia.org/wiki/%E5%87%B1%E6%92%92%E5%AF%86%E7%A2%BC)、[維吉尼亞密碼](https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%90%89%E5%B0%BC%E4%BA%9A%E5%AF%86%E7%A0%81)、[ROT13](https://zh.wikipedia.org/wiki/ROT13)
+#### 參考資料:[凱薩加密](https://zh.wikipedia.org/wiki/%E5%87%B1%E6%92%92%E5%AF%86%E7%A2%BC)、[維吉尼亞密碼](https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%90%89%E5%B0%BC%E4%BA%9A%E5%AF%86%E7%A0%81)、[ROT13](https://zh.wikipedia.org/wiki/ROT13)
