@@ -10,8 +10,7 @@
 [解析幾何](https://zh.wikipedia.org/zh-tw/%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95)
 [非歐幾何](https://zh.wikipedia.org/zh-tw/%E9%9D%9E%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E5%87%A0%E4%BD%95)
 [微分幾何](https://zh.wikipedia.org/zh-tw/%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95)
-### 分析
-[分析學](https://zh.wikipedia.org/zh-tw/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90)
+### [分析](https://zh.wikipedia.org/zh-tw/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90)
 [微積分](https://zh.wikipedia.org/zh-tw/%E5%BE%AE%E7%A7%AF%E5%88%86%E5%AD%A6)
 [微分方程](https://zh.wikipedia.org/zh-tw/%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B)
 [實函數](https://zh.wikipedia.org/zh-tw/%E5%AE%9E%E5%87%BD%E6%95%B0)
