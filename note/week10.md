@@ -4,6 +4,7 @@
 ![image](https://user-images.githubusercontent.com/47874872/123464056-e8ead880-d61e-11eb-9fa1-797d9dc697a4.png)
 
 ![image](https://user-images.githubusercontent.com/47874872/123463789-8a255f00-d61e-11eb-9112-637c6751c2ce.png)
+
 即：
 * 非（p且q）等價於（非p）或（非q）
 * 非（p或q）等價於（非p）且（非q）
