@@ -89,6 +89,7 @@ Algorithm SimulatedAnnealing(s)
   end
 end
 ```
+
 ### 演算步驟
 #### 初始化
 由一個產生函數從當前解產生一個位於解空間的新解，並定義一個足夠大的數值作為初始溫度。
