@@ -28,4 +28,4 @@
 
 ![image](https://user-images.githubusercontent.com/47874872/123465781-25b7cf00-d621-11eb-86e7-90092b7141a8.png)
 
-### 參考資料:[自然語言](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80)、[語言的層次](https://medium.com/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/%E8%AA%9E%E6%B3%95%E7%90%86%E8%AB%96-23bc87126e6)
+#### 參考資料:[自然語言](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80)、[語言的層次](https://medium.com/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/%E8%AA%9E%E6%B3%95%E7%90%86%E8%AB%96-23bc87126e6)
