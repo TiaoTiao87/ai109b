@@ -29,4 +29,4 @@ SymPy是一個符號計算的Python庫。它的目標是成為一個全功能的
 * solve(x) : 求解x
 * sympy.sqrt(x) :將x開根號
 
-參考資料:[傅立葉轉換](https://zh.wikipedia.org/wiki/%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2)、[matplotlib](https://zh.wikipedia.org/zh-tw/Matplotlib)、[NumPy](https://zh.wikipedia.org/wiki/NumPy)、[SymPy](https://zh.wikipedia.org/zh-tw/SymPy)
+#### 參考資料:[傅立葉轉換](https://zh.wikipedia.org/wiki/%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2)、[matplotlib](https://zh.wikipedia.org/zh-tw/Matplotlib)、[NumPy](https://zh.wikipedia.org/wiki/NumPy)、[SymPy](https://zh.wikipedia.org/zh-tw/SymPy)
