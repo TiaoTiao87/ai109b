@@ -28,17 +28,17 @@ NP完全或NP完備（NP-Complete，縮寫為NP-C或NPC），是計算複雜度�
 
 ## 圖形搜尋
 圖形搜尋的方法大致可以分為「深度優先搜尋 (Depth-First Search, DFS)、廣度優先搜尋 (Breath-First Search, BFS)、最佳優先搜尋 (Best-First Search, BestFS) 等三類。
-![圖、圖形 Graph 的範例](../img/graphSearch.jpg)
+![image](https://user-images.githubusercontent.com/47874872/123459849-67dd1280-d619-11eb-8b9c-372aad68f007.png)
 ### 深度優先搜尋
 這個演算法會儘可能深的搜尋樹的分支。當節點v的所在邊都己被探尋過，搜尋將回溯到發現節點v的那條邊的起始節點。這一過程一直進行到已發現從源節點可達的所有節點為止。如果還存在未被發現的節點，則選擇其中一個作為源節點並重複以上過程，整個行程反覆進行直到所有節點都被存取為止。
-![圖、圖形 Graph 的範例](../img/dfs.jpg)
+![image](https://user-images.githubusercontent.com/47874872/123459867-6d3a5d00-d619-11eb-8e96-9082ae4a55c9.png)
 ### 廣度優先搜尋
 BFS是從根節點開始，沿著樹的寬度遍歷樹的節點。如果所有節點均被存取，則演算法中止。廣度優先搜尋的實現一般採用open-closed表。
-![圖、圖形 Graph 的範例](../img/bfs.jpg)
+![image](https://user-images.githubusercontent.com/47874872/123459896-74616b00-d619-11eb-9a8e-459b95dd0cb3.png)
 ### 執行 graph_search.py  
 ```
 結果:
 dfs:1 => 2 => 3 => 4 => 5 => 6 =>
 bfs:1 => 2 => 5 => 3 => 4 => 6 =>
 ```
-### 參考資料:[線性規劃](https://zh.wikipedia.org/wiki/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92)、[單純形法](https://zh.wikipedia.org/wiki/%E5%8D%95%E7%BA%AF%E5%BD%A2%E6%B3%95)、[Big O](https://zh.wikipedia.org/wiki/%E5%A4%A7O%E7%AC%A6%E5%8F%B7)、[NP完全](https://zh.wikipedia.org/wiki/NP%E5%AE%8C%E5%85%A8)、[整數編程](https://zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)、[泡沫排序](https://en.wikipedia.org/wiki/Integer_programming)、[循序搜尋法](http://spaces.isu.edu.tw/upload/18833/3/web/search.htm)
+### 參考資料:[線性規劃](https://zh.wikipedia.org/wiki/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92)、[單純形法](https://zh.wikipedia.org/wiki/%E5%8D%95%E7%BA%AF%E5%BD%A2%E6%B3%95)、[Big O](https://zh.wikipedia.org/wiki/%E5%A4%A7O%E7%AC%A6%E5%8F%B7)、[NP完全](https://zh.wikipedia.org/wiki/NP%E5%AE%8C%E5%85%A8)、[整數編程](https://zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)、[泡沫排序](https://en.wikipedia.org/wiki/Integer_programming)、[循序搜尋法](http://spaces.isu.edu.tw/upload/18833/3/web/search.htm)、[圖形搜尋](http://programmermagazine.github.io/201406/htm/focus1.html)
