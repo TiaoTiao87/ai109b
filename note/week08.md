@@ -58,4 +58,4 @@ function alphabeta(node, depth, α, β, maximizingPlayer)
 (* Initial call for maximizing player *)
 alphabeta(origin, depth, -∞, +∞, TRUE)
 ```
-### 參考資料:[參考資料1](https://mropengate.blogspot.com/2015/04/ai-ch4-minimax-alpha-beta-pruning.html)、[參考資料2](http://programmermagazine.github.io/201407/htm/focus3.html)
+#### 參考資料:[參考資料1](https://mropengate.blogspot.com/2015/04/ai-ch4-minimax-alpha-beta-pruning.html)、[參考資料2](http://programmermagazine.github.io/201407/htm/focus3.html)
