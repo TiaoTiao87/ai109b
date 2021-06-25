@@ -31,4 +31,4 @@
 ## 二階邏輯 (Second-Order Logic)
 * 如果一階邏輯中的謂詞，放寬成可以是變項的話 (這些變項可以加上∀與∃等符號的約束)，那就變成了二階邏輯，以下是一些二階邏輯的規則範例。
 
-### 參考資料:[笛摩根定律](https://zh.wikipedia.org/wiki/%E5%BE%B7%E6%91%A9%E6%A0%B9%E5%AE%9A%E5%BE%8B)
+#### 參考資料:[笛摩根定律](https://zh.wikipedia.org/wiki/%E5%BE%B7%E6%91%A9%E6%A0%B9%E5%AE%9A%E5%BE%8B)
