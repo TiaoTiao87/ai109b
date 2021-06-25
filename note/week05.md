@@ -152,4 +152,4 @@ PS C:\Users\teemo\OneDrive\桌面>  & 'C:\Users\teemo\AppData\Local\Programs\Pyt
 [1, 1, 1]
 ```
 
-### 參考資料:[真質表](https://zh.wikipedia.org/wiki/%E7%9C%9F%E5%80%BC%E8%A1%A8)
+#### 參考資料:[真質表](https://zh.wikipedia.org/wiki/%E7%9C%9F%E5%80%BC%E8%A1%A8)
