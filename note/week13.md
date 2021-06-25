@@ -85,4 +85,4 @@ Result: parameters = [tensor(1.9999, requires_grad=True)] loss=0.0
 x= tensor([-0.0018, -0.0035], requires_grad=True)
 ```
 
-### [反傳遞演算法](https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E7%AE%97%E6%B3%95)、[pytorch](https://zh.wikipedia.org/wiki/PyTorch)
+#### 參考資料:[反傳遞演算法](https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E7%AE%97%E6%B3%95)、[pytorch](https://zh.wikipedia.org/wiki/PyTorch)
