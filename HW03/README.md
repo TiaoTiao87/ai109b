@@ -1,4 +1,5 @@
-# 真值表
+# 請寫程式列出 n 變數的所有真值表可能狀況
+
 * [code](truthtable.py)
 
 看懂老師的程式碼，並加上註解。
@@ -18,3 +19,7 @@ PS C:\Users\teemo\OneDrive\桌面>  c:; cd 'c:\Users\teemo\OneDrive\桌面'; & '
 [1, 1, 1]
 PS C:\Users\teemo\OneDrive\桌面> 
 ```
+
+## 參考資料
+
+* [解答](https://gitlab.com/ccc109/ai/-/blob/master/03-search/Q3-queen/truthtable.py)
