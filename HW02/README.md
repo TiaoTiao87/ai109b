@@ -2,6 +2,8 @@
 
 * 看懂老師給的解答後，自己執行一遍，並加入註解
 
+* [code](https://github.com/kevin823lin/ai109b/blob/main/HW02/queen.py)
+
 ```text
 PS C:\Users\user\Desktop\ai\ai109b\HW\02-queen>python queen.py
 [1, 3, 0, 2]
