@@ -5,4 +5,16 @@
 
 執行結果:
 
-![image](https://user-images.githubusercontent.com/47874872/123518167-42164300-d6d7-11eb-8d5d-dc5f77e11450.png)
+```
+PS C:\Users\teemo\OneDrive\桌面>  c:; cd 'c:\Users\teemo\OneDrive\桌面'; & 'C:\Users\teemo\AppData\Local\Programs\Python\Python38-32\python.exe' 'c:\Users\teemo\.vscode\extensions\ms-python.python-2021.6.944021595\pythonFiles\lib\python\debugpy\launcher' '52832' '--' 'c:\Users\teemo\OneDrive\桌面\truthtable.py'
+請輸入想要幾個變數:3
+[0, 0, 0]
+[0, 0, 1]
+[0, 1, 0]
+[0, 1, 1]
+[1, 0, 0]
+[1, 0, 1]
+[1, 1, 0]
+[1, 1, 1]
+PS C:\Users\teemo\OneDrive\桌面> 
+```
