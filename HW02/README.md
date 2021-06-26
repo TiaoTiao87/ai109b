@@ -1,9 +1,9 @@
-# 習題 2 : 請用搜尋法（深度優先）求解八個皇后問題
+# 八皇后問題
 
 * 看懂老師給的解答後，自己執行一遍，並加入註解
 
 ```text
-PS D:\檔案\課程\1092\人工智慧\ai109b\HW02> python .\queen.py
+PS C:\Users\user\Desktop\ai\ai109b\HW\02-queen>python queen.py
 [1, 3, 0, 2]
 [2, 0, 3, 1]
 [0, 4, 7, 5, 2, 6, 1, 3]
@@ -102,4 +102,4 @@ PS D:\檔案\課程\1092\人工智慧\ai109b\HW02> python .\queen.py
 
 ## 參考資料
 
-* [老師的解答](https://gitlab.com/ccc109/ai/-/blob/master/_homework/02-queen/queen.py)
+* [解答](https://gitlab.com/ccc109/ai/-/blob/master/_homework/02-queen/queen.py)
