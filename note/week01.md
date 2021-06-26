@@ -83,7 +83,7 @@ x=1.000 y=-0.990 f(x,y)=10.000
 x=1.000 y=-1.000 f(x,y)=10.000
 ```
 ### 隨機調整法
-* hillClimbing2.py
+* hillClimbing2r.py
 ```
 import random
 
