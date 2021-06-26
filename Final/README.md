@@ -49,4 +49,5 @@ Siri
 ![image](https://user-images.githubusercontent.com/47874872/123517578-56a50c00-d6d4-11eb-8c58-8aba442e9760.png)
 
 
-### 參考資料:[傅立葉轉換](https://zh.wikipedia.org/wiki/%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2)、[語音辨識](https://ithelp.ithome.com.tw/articles/10195763)、[code](https://gist.github.com/soja-soja/64fb66c17a59dd913d7a05d33724c306)
+### 參考資料
+[傅立葉轉換](https://zh.wikipedia.org/wiki/%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2)、[語音辨識](https://ithelp.ithome.com.tw/articles/10195763)、[code](https://gist.github.com/soja-soja/64fb66c17a59dd913d7a05d33724c306)
